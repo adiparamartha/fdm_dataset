@@ -1,10 +1,10 @@
 # Fused Deposition Modeling 3D Printer Fault Detection Dataset using Sensory Data.
 
-The presented Dataset is gathered using following configurations:
+### The presented Dataset is gathered using following configurations:
 ![Sensor Placement](images/data_collection.png)
 
-Real-world implementation:
+### Real-world implementation:
 ![Implementation](images/implementation.png)
 
-Samples of printed product:
+### Samples of printed product:
 ![Dataset Sample](images/implementation.png)
