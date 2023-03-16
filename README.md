@@ -7,4 +7,4 @@
 ![Implementation](images/implementation.png)
 
 ### Samples of printed product:
-![Dataset Sample](images/implementation.png)
+![Dataset Sample](images/dataset_sample.png)
